@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PRODUCE > CONSUME]]></title>
+        <description><![CDATA[PRODUCE > CONSUME]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 20:48:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Japanese toolbox]]></title>
+            <description><![CDATA[<article><h1>The Japanese toolbox</h1><p>This toolbox was the first real project I took on. Using the festool Domino I used it to join the whole thing together. It was built of scrap wood I recovered and cleaned up. A real learning curve.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/767e22ae-28d5-43b7-8a5e-57215c23bba8.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/767e22ae-28d5-43b7-8a5e-57215c23bba8.jpg</link>
+            <guid isPermaLink="false">1871e79f-d532-4f93-bc3e-afbc913cf070</guid>
+            <pubDate>Wed, 03 Aug 2016 20:47:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
