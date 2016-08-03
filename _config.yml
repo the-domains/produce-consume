@@ -1,0 +1,14 @@
+layout_spectrum: 0.5215054
+color:
+  saturation: 0.3243728
+  lightness: 1
+  brandStrength: 1
+  brandColors:
+    - '#555555'
+    - '#9F9F9F'
+    - '#7F7F7F'
+    - '#090909'
+    - '#D7D7D7'
+  rhythmicContrast: 0.188172
+typography_spectrum: 0.2007169
+name: PRODUCE > CONSUME
